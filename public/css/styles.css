@@ -1,0 +1,25 @@
+body {
+  background-color: White;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1, h3 {
+  color: Black;
+}
+
+.center {
+  position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  width: 70%;
+}
